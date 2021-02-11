@@ -1,15 +1,9 @@
-# 🚀 Welcome to your new awesome project!
+# install modules
+npm install
 
-This project has been created using **webpack scaffold**, you can now run
 
-```
+# run development build and run local server
+npm run dev
+
+# run production build
 npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
