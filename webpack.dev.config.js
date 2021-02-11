@@ -71,6 +71,7 @@ module.exports = {
 
   devServer: {
     open: true,
-    host: 'localhost'
+    host: 'localhost',
+    hot: true
   }
 }
